@@ -23,7 +23,7 @@ invalidurl = f"{red}[! HiraHook !]{white} Invalid url!"
 
 socials = {
     "github": {"link": "https://github.com/HiraganaDev/HiraHook"},
-    "youtube": {"link": "soon"},
+    "youtube": {"link": "https://www.youtube.com/watch?v=ZP2mJ32RQKU"},
 }  # You can update this list, and it will dynamically update.
 
 logo = """
